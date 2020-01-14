@@ -5,7 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Text.Json;
 using System.Threading.Tasks;
-using Argenti.Address.Core;
+using Argenti.Address.Core.Interfaces;
 using Argenti.Address.Core.Domain;
 
 

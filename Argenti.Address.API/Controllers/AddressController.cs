@@ -1,10 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using Argenti.Address.Core;
+using Argenti.Address.Core.Interfaces;
 using Argenti.Address.Core.Domain;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 
 namespace Argenti.Address.API.Controllers
 {
